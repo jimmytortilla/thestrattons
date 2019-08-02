@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Support on The Strattons in Japan</title>
-    <link>https://stratton.life/support/</link>
+    <link>https://jimmytortilla.github.io/thestrattons/support/</link>
     <description>Recent content in Support on The Strattons in Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://stratton.life/support/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jimmytortilla.github.io/thestrattons/support/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
