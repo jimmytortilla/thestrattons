@@ -3,21 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://stratton.life/post/prayer_news09122019/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+    <loc>https://stratton.life/post/</loc>
+    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://stratton.life/post/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+    <loc>https://stratton.life/post/prayer_news09272019/</loc>
+    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://stratton.life/</loc>
+    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://stratton.life/post/prayer_news09122019/</loc>
     <lastmod>2019-09-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
