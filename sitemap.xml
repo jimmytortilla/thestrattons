@@ -3,21 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://stratton.life/post/</loc>
-    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
+    <loc>https://stratton.life/post/prayer_news11062019/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://stratton.life/post/prayer_news09272019/</loc>
-    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://stratton.life/</loc>
     <lastmod>2019-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -40,13 +33,6 @@
   <url>
     <loc>https://stratton.life/post/prayer_news08112019/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://stratton.life/about/</loc>
-    <lastmod>2019-07-24T23:24:50+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -88,7 +74,22 @@
   
   <url>
     <loc>https://stratton.life/categories/</loc>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stratton.life/about/</loc>
+    <lastmod>2019-07-24T23:24:50+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://stratton.life/post/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -105,7 +106,15 @@
   
   <url>
     <loc>https://stratton.life/tags/</loc>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stratton.life/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
