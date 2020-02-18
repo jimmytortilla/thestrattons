@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://stratton.life/post/prayer_news02182020/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://stratton.life/post/prayer_news01162020/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -101,7 +108,7 @@
   
   <url>
     <loc>https://stratton.life/post/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -126,7 +133,7 @@
   
   <url>
     <loc>https://stratton.life/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
