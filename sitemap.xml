@@ -1,6 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://stratton.life/post/prayer_new05182020/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://stratton.life/post/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://stratton.life/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
   
   <url>
     <loc>https://stratton.life/post/prayer_news03282020/</loc>
@@ -66,6 +87,13 @@
   </url>
   
   <url>
+    <loc>https://stratton.life/about/</loc>
+    <lastmod>2019-07-24T23:24:50+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://stratton.life/about/our_story/</loc>
     <lastmod>2019-07-24T23:24:50+09:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -103,20 +131,6 @@
   <url>
     <loc>https://stratton.life/categories/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stratton.life/about/</loc>
-    <lastmod>2019-07-24T23:24:50+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://stratton.life/post/</loc>
-    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
@@ -134,13 +148,6 @@
   
   <url>
     <loc>https://stratton.life/tags/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stratton.life/</loc>
-    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
