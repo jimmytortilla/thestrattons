@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
     <loc>https://stratton.life/post/prayer_news09292020/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -12,19 +13,32 @@
   <url>
     <loc>https://stratton.life/post/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+=======
+    <loc>https://stratton.life/post/</loc>
+    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
+>>>>>>> 5f93690798eb9897f81d3f7df823eded7e151dab
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://stratton.life/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+=======
+    <loc>https://stratton.life/post/prayer_news08202020/</loc>
+    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
+>>>>>>> 5f93690798eb9897f81d3f7df823eded7e151dab
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://stratton.life/post/prayer_news08202020/</loc>
+=======
+    <loc>https://stratton.life/</loc>
+>>>>>>> 5f93690798eb9897f81d3f7df823eded7e151dab
     <lastmod>2020-08-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

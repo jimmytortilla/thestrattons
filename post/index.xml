@@ -6,12 +6,17 @@
     <description>Recent content in Prayer &amp; News on The Strattons in Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+>>>>>>> 5f93690798eb9897f81d3f7df823eded7e151dab
     
 	<atom:link href="https://stratton.life/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>Our Ministry Video</title>
       <link>https://stratton.life/post/prayer_news09292020/</link>
       <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
@@ -21,6 +26,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> 5f93690798eb9897f81d3f7df823eded7e151dab
       <title>Stratton Summer Update</title>
       <link>https://stratton.life/post/prayer_news08202020/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
