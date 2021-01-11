@@ -6,17 +6,21 @@
     <description>Recent content in Prayer &amp; News on The Strattons in Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
-    <lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
-=======
-    <lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
->>>>>>> 5f93690798eb9897f81d3f7df823eded7e151dab
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://stratton.life/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-<<<<<<< HEAD
+      <title>Forsaking Fear</title>
+      <link>https://stratton.life/post/prayer_news01112021/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://stratton.life/post/prayer_news01112021/</guid>
+      <description>In late 2000 or early 2001, while I was in Bible college, I went through an extended season of fretting and worrying about the future. One day in class&amp;ndash;was it &amp;ldquo;Prison Epistles&amp;rdquo;?&amp;ndash;I found it particularly difficult to concentrate on the lecture. Instead of taking notes I wrote down a simple poem aimed at dealing with fear through trusting in our faithful Savior. Later I put it to music (though I am no musician).</description>
+    </item>
+    
+    <item>
       <title>Our Ministry Video</title>
       <link>https://stratton.life/post/prayer_news09292020/</link>
       <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
@@ -26,8 +30,6 @@
     </item>
     
     <item>
-=======
->>>>>>> 5f93690798eb9897f81d3f7df823eded7e151dab
       <title>Stratton Summer Update</title>
       <link>https://stratton.life/post/prayer_news08202020/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
